@@ -26,7 +26,7 @@ key aspect such as:
   * Having a basic knowledge of security, privacy, copyright law of libraries, and other subtleties.
   * How to approach Testing, Deployment and Operational pipelines.
 
-### Finding Good Developeris is Hard
+### Finding Good Developers is Hard
 
 Keeping them around, transitioning their knowledge, and aligning their work with product-market fit is harder.
 
